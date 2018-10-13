@@ -1,6 +1,5 @@
 ---
 # handlers file for webserver
-handlers:
 - name: Restart nginx
   service:
     name: nginx
