@@ -1,2 +1,4 @@
 ---
 # defaults file for webserver
+webserver_dns_name: "ec2-13-232-213-111.ap-south-1.compute.amazonaws.com"
+appserver_ip: 172.31.16.241
