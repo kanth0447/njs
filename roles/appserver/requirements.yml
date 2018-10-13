@@ -2,4 +2,4 @@
 - src: davidwittman.redis 
 
 # from galaxy for mongodb server
-- src: stouts.mongodb
+- src: undergreen.mongodb
