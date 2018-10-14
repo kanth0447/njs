@@ -2,4 +2,6 @@
 - src: davidwittman.redis 
 
 # from galaxy for mongodb server
-- src: git+https://github.com/kanth0447/ansible-role-mongodb.git
+- name: fail2ban
+  scm: git
+  src: git+https://github.com/kanth0447/ansible-role-mongodb.git
